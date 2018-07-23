@@ -1,0 +1,12 @@
+C:\Users\gibeulah\source\repos\LensTypePredictions\LensTypePredictions\bin\Debug\netcoreapp2.1\lenses.data.txt
+C:\Users\gibeulah\source\repos\LensTypePredictions\LensTypePredictions\bin\Debug\netcoreapp2.1\LensTypePredictions.deps.json
+C:\Users\gibeulah\source\repos\LensTypePredictions\LensTypePredictions\bin\Debug\netcoreapp2.1\LensTypePredictions.runtimeconfig.json
+C:\Users\gibeulah\source\repos\LensTypePredictions\LensTypePredictions\bin\Debug\netcoreapp2.1\LensTypePredictions.runtimeconfig.dev.json
+C:\Users\gibeulah\source\repos\LensTypePredictions\LensTypePredictions\bin\Debug\netcoreapp2.1\LensTypePredictions.dll
+C:\Users\gibeulah\source\repos\LensTypePredictions\LensTypePredictions\bin\Debug\netcoreapp2.1\LensTypePredictions.pdb
+C:\Users\gibeulah\source\repos\LensTypePredictions\LensTypePredictions\obj\Debug\netcoreapp2.1\LensTypePredictions.csprojAssemblyReference.cache
+C:\Users\gibeulah\source\repos\LensTypePredictions\LensTypePredictions\obj\Debug\netcoreapp2.1\LensTypePredictions.csproj.CoreCompileInputs.cache
+C:\Users\gibeulah\source\repos\LensTypePredictions\LensTypePredictions\obj\Debug\netcoreapp2.1\LensTypePredictions.AssemblyInfoInputs.cache
+C:\Users\gibeulah\source\repos\LensTypePredictions\LensTypePredictions\obj\Debug\netcoreapp2.1\LensTypePredictions.AssemblyInfo.cs
+C:\Users\gibeulah\source\repos\LensTypePredictions\LensTypePredictions\obj\Debug\netcoreapp2.1\LensTypePredictions.dll
+C:\Users\gibeulah\source\repos\LensTypePredictions\LensTypePredictions\obj\Debug\netcoreapp2.1\LensTypePredictions.pdb
